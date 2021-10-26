@@ -1,0 +1,91 @@
+{
+    "HTML": [
+        {  
+            "dif": "Easy",
+            "question": "CSS stands for?",
+            "options": [
+                "Cascade style sheets",
+                "Color and style sheets",
+                "Cascading style sheets",
+                "None of the above"
+            ],
+            "answer": "Cascading style sheets"
+        }
+    ],
+    "CSS": [
+        {  
+            "dif": "Easy",
+            "question": "CSS stands for?",
+            "options": [
+                "Cascade style sheets",
+                "Color and style sheets",
+                "Cascading style sheets",
+                "None of the above"
+            ],
+            "answer": "Cascading style sheets"
+        }
+    ],
+    "JAVASCRIPT": [
+        {  
+            "dif": "Easy",
+            "question": "CSS stands for?",
+            "options": [
+                "Cascade style sheets",
+                "Color and style sheets",
+                "Cascading style sheets",
+                "None of the above"
+            ],
+            "answer": "Cascading style sheets"
+        }
+    ],
+    "Machine Learning": [
+        {  
+            "dif": "Easy",
+            "question": "CSS stands for?",
+            "options": [
+                "Cascade style sheets",
+                "Color and style sheets",
+                "Cascading style sheets",
+                "None of the above"
+            ],
+            "answer": "Cascading style sheets"
+        }
+    ],
+    "Geography": [
+        {  
+            "dif": "Easy",
+            "question": "The Somasila Dam is located in which state?",
+            "options": [
+                "Madhya Pradesh",
+                "Himachal Pradesh",
+                "Andhra Pradesh",
+                "Uttar Pradesh"
+            ],
+            "answer": "Andhra Pradesh"
+        }
+    ],
+    "maths": [
+        {
+            "dif": "Difficult",
+            "question": "5 + 7 = ?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "13"
+            ],
+            "answer": "12"
+        },
+        {
+            "dif": "Medium",
+            "question": "12 - 8 = ?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "4"
+        }
+    ]
+}
